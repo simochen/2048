@@ -392,27 +392,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background-image: url('../tile-sets/ink-China/001.jpg');
+    background-image: url('../tile-sets/wscat/005.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url('../tile-sets/ink-China/014.jpg');
+    background-image: url('../tile-sets/wscat/017.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background-image: url('../tile-sets/ink-China/003.jpg');
+    background-image: url('../tile-sets/wscat/016.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background-image: url('../tile-sets/ink-China/016.jpg');
+    background-image: url('../tile-sets/wscat/009.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background-image: url('../tile-sets/ink-China/012.jpg');
+    background-image: url('../tile-sets/wscat/006.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background-image: url('../tile-sets/ink-China/006.jpg');
+    background-image: url('../tile-sets/wscat/029.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background-image: url('../tile-sets/ink-China/007.jpg');
+    background-image: url('../tile-sets/wscat/027.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -420,7 +420,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background-image: url('../tile-sets/ink-China/008.jpg');
+    background-image: url('../tile-sets/wscat/020.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -428,7 +428,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background-image: url('../tile-sets/ink-China/021.jpg');
+    background-image: url('../tile-sets/wscat/023.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -436,7 +436,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background-image: url('../tile-sets/ink-China/028.jpg');
+    background-image: url('../tile-sets/wscat/024.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -444,7 +444,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background-image: url('../tile-sets/ink-China/011.jpg');
+    background-image: url('../tile-sets/wscat/031.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
