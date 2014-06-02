@@ -396,7 +396,7 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url('../tile-sets/wscat/017.jpg');
+    background-image: url('../tile-sets/wscat/029.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
@@ -406,13 +406,13 @@ hr {
     background-image: url('../tile-sets/wscat/009.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background-image: url('../tile-sets/wscat/006.jpg');
+    background-image: url('../tile-sets/wscat/026.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background-image: url('../tile-sets/wscat/029.jpg');
+    background-image: url('../tile-sets/wscat/027.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background-image: url('../tile-sets/wscat/027.jpg');
+    background-image: url('../tile-sets/wscat/020.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -420,7 +420,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background-image: url('../tile-sets/wscat/020.jpg');
+    background-image: url('../tile-sets/wscat/019.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
